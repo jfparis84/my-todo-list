@@ -1,0 +1,13 @@
+.list-items {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #ccc;
+}
+
+.list-items input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+.list-items li.done {
+    display: none;
+}
